@@ -16,7 +16,8 @@ This table summarizes the input features, dropped fields, and synthesized fields
 
 ## Solution architecture
 
-[CapstoneProposal.pdf](https://github.com/user-attachments/files/18089429/CapstoneProposal.pdf)
+![Capstone1 drawio](https://github.com/user-attachments/assets/06a09369-c1da-4e5f-8a07-ddb4873345b7)
+
 
 
 ## Resources

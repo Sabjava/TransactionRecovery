@@ -1,5 +1,7 @@
 # Transaction Churn Recovery
-Capstone project for Udacity nanodegree
+## Capstone project for Udacity nanodegree
+
+
 ## Domain Background
 Subscription-based businesses have become increasingly popular across industries, including entertainment, software, fitness, and e-commerce. However, one major challenge these businesses face is churn due to billing failures. Billing failures can occur for various reasons, such as expired payment methods, insufficient funds, or technical errors, and often lead to unintended subscription cancellations. According to industry reports, involuntary churn due to billing issues accounts for up to 20-40% of total subscription cancellations, representing a significant revenue loss for businesses. [1]
 Academic research supports the application of ML in addressing billing-related issues. Studies in predictive analytics and churn modeling demonstrate how machine learning techniques, such as classification algorithms and time-series analysis, can enhance customer retention strategies [2]. 
@@ -21,8 +23,8 @@ This table summarizes the input features, dropped fields, and synthesized fields
 
 
 ## Resources
-[1] [Understanding Involuntary Churn and How to Address It](#https://optimizedpayments.com/insights/recurring/involuntary-churn-and-how-to-address-it/)  
-[2] [Classifying variety of customer's online engagement for churn prediction with mixed-penalty logistic regression](#https://arxiv.org/abs/2105.07671)  
-[3] [Bank Customer Churn Dataset](#https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset?resource=download)
+[1] [Understanding Involuntary Churn and How to Address It](https://optimizedpayments.com/insights/recurring/involuntary-churn-and-how-to-address-it/)  
+[2] [Classifying variety of customer's online engagement for churn prediction with mixed-penalty logistic regression](https://arxiv.org/abs/2105.07671)  
+[3] [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset?resource=download)
 
 

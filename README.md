@@ -1,4 +1,4 @@
-# Transaction Churn Recovery
+# Failed Transactions Recovery
 ## Capstone project for Udacity nanodegree
 
 
@@ -11,7 +11,7 @@ Billing failures in subscription-based models lead to significant revenue loss. 
 
 ##  Datasets and Inputs
 The primary dataset for this project is the Bank Customer Churn Dataset [3], which provides information about customer demographics, account behavior, and churn status. While the dataset is designed to predict customer churn in banking, it will be adapted to represent a subscription context by modifying the target variable to indicate recovery outcomes after billing failure.
-This table summarizes the input features, dropped fields, and synthesized fields used in the subscription churn prediction project. It highlights the actions taken to prepare the dataset to align with real-world constraints.
+This table summarizes the input features, dropped fields, and synthesized fields used in the transaction billiing prediction project. It highlights the actions taken to prepare the dataset to align with real-world constraints.
 
 [View Proposal Full text](CapstoneProposal.pdf)
 

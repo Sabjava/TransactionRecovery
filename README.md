@@ -1,4 +1,4 @@
-# Failed Transactions Recovery
+# Prediction of Successful Billing for Transactions
 ## Capstone project for Udacity nanodegree
 
 

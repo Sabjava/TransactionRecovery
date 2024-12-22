@@ -1,0 +1,3 @@
+curl -X POST https://isx8ecrvxb.execute-api.us-east-1.amazonaws.com/demo/transaction-predict \
+     -H "Content-Type: application/json" \
+     -d '{"input_data": "26,1,2,0,0,1.0,24.000000000000004,2,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0"}'

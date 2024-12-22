@@ -7,13 +7,17 @@ Subscription-based businesses have become increasingly popular across industries
 Academic research supports the application of ML in addressing billing-related issues. Studies in predictive analytics and churn modeling demonstrate how machine learning techniques, such as classification algorithms and time-series analysis, can enhance customer retention strategies [2]. 
 This project proposes using ML predictions to address the problem of stopped subscriptions due to billing failures
 ##  Problem Statement
-Billing failures in subscription-based models lead to significant revenue loss. Identifying which transactions are likely to recover after an initial billing failure is crucial for minimizing churn. The challenge is to develop a machine learning model that accurately predicts recovery likelihood, optimizing billing retries and reducing unnecessary operational costs.
+Billing failures in subscription-based models lead to significant revenue loss. Identifying which transactions are likely to recover after an initial billing failure is crucial for minimizing churn. The challenge was to develop a machine learning model that accurately predicts recovery likelihood, optimizing billing retries and reducing unnecessary operational costs.
 
 ##  Datasets and Inputs
-The primary dataset for this project is the Bank Customer Churn Dataset [3], which provides information about customer demographics, account behavior, and churn status. While the dataset is designed to predict customer churn in banking, it will be adapted to represent a subscription context by modifying the target variable to indicate recovery outcomes after billing failure.
+The primary dataset for this project is the Bank Customer Churn Dataset [3], which provides information about customer demographics, account behavior, and churn status. While the dataset is designed to predict customer churn in banking, it was adapted to represent a subscription context by modifying the target variable to indicate recovery outcomes after billing failure.
 This table summarizes the input features, dropped fields, and synthesized fields used in the transaction billiing prediction project. It highlights the actions taken to prepare the dataset to align with real-world constraints.
 
-[View Proposal Full text](CapstoneProposal.pdf)
+## Metrics
+This project is a `binary classification` problem aimed at predicting the likelihood of a transaction recovery following a failed billing attempt. The following techniques were used to evaluate model performance
+
+
+[View  Full text](Report.pdf)
 
 
 ## Solution architecture
